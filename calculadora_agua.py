@@ -9,7 +9,7 @@ def main() :
     saida(agua)
 
 def calculo(ativ,peso) :
-    agua = (35 +(ativ * 15)) * peso
+    agua = (35 +(ativ * 10)) * peso
     return agua
 
 def saida(agua) :
